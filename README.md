@@ -72,8 +72,8 @@ doori-ai-robot/
 본 프로젝트는 **2025 지능형 로봇 분야 SDGs 아이디어 공모전**에서 기술의 창의성과 사회적 기여도를 인정받아 **대상**을 수상하였습니다.
 
 <p align="center">
-<img src="docs/award_1.png" width="45%">
-<img src="docs/award_2.png" width="45%">
+<img src="docs/Award_1.png" width="45%">
+<img src="docs/Award_2.png" width="45%">
 </p>
 
 * **주관**: 단국대학교 공학교육혁신센터, 산업통상자원부, KIAT
