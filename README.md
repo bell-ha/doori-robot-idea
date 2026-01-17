@@ -3,7 +3,6 @@
 > **2025 지능형 로봇 분야 SDGs 아이디어 공모전 대상 (Grand Prize) 수상**
 > 도시 안전 사각지대 해소를 위한 AI 스마트 순찰 로봇 프로토타입
 
-
 ---
 
 ## 🎬 프로젝트 개요
@@ -31,6 +30,8 @@ Doori(두리)는 용인시의 급증하는 포트홀 문제와 시각장애인�
 
 ### 1. Unity 시뮬레이션
 
+![Doori Simulation 데모](docs/dori.gif)
+
 *로봇의 자율 주행 및 객체 탐지 알고리즘을 Unity 환경에서 시뮬레이션하여 논리를 검증하였습니다.*
 
 ### 2. 3D 로봇 설계
@@ -53,13 +54,13 @@ doori-ai-robot/
 ├── docs/
 │   ├── Doori_Presentation.pptx     # 공모전 발표 자료
 │   ├── award_1.png                 # 대상 상장 (Full)
-│   └── award_2.png                 # 대상 상장 (Crop)
+│   ├── award_2.png                 # 대상 상장 (Crop)
+│   └── dori.gif                    # 시뮬레이션 실행 데모 영상
 ├── model/
 │   ├── Doori_Robot_Model.fbx       # 로봇 3D 모델
 │   └── textures/                   # 모델 텍스처 파일 (PBR)
 ├── unity/
-│   └── Doori_Prototype_Unity/      # 유니티 시뮬레이션 프로젝트
-├── dori.gif                        # 시뮬레이션 실행 데모 영상
+│   
 └── README.md
 
 ```
@@ -84,3 +85,4 @@ doori-ai-robot/
 
 * **임혜령**: 팀장, 아이디어 기획 및 자료 작성
 * **이종하**: 3D 모델링, 구현 및 시스템 설계
+
