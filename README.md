@@ -74,6 +74,7 @@ doori-ai-robot/
 <p align="center">
 <img src="docs/Award_1.png" width="45%">
 <img src="docs/Award_2.png" width="45%">
+<img src="docs/Award_3.png" width="70%">
 </p>
 
 * **주관**: 단국대학교 공학교육혁신센터, 산업통상자원부, KIAT
