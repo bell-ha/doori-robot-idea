@@ -54,7 +54,8 @@ doori-ai-robot/
 ├── docs/
 │   ├── Doori_Presentation.pptx     # 공모전 발표 자료
 │   ├── award_1.png                 # 대상 상장 (Full)
-│   ├── award_2.png                 # 대상 상장 (Crop)
+│   ├── award_3.png                 # 대상 상장 (추가 컷)
+│   ├── presentation.png            # 발표 장면 사진
 │   └── dori.gif                    # 시뮬레이션 실행 데모 영상
 ├── model/
 │   ├── Doori_Robot_Model.fbx       # 로봇 3D 모델
@@ -73,7 +74,8 @@ doori-ai-robot/
 
 <p align="center">
 <img src="docs/Award_1.png" width="45%">
-<img src="docs/Award_2.png" width="45%">
+<img src="docs/presentation.png" width="45%">
+<br>
 <img src="docs/Award_3.png" width="70%">
 </p>
 
